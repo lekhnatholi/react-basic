@@ -1,0 +1,9 @@
+.UserOutput{
+  width: 60%;
+  border: 1px solid #eee;
+  text-align: center;
+  margin: 16px;
+  padding: 16px;
+  background-color: inherit;
+  box-shadow: 0 2px 2px #ccc;
+}
